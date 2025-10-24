@@ -11,7 +11,7 @@ It uses Python and simple data filtering techniques to match ingredients to cuis
 ## 🧠 Built With
 - Python
 - Jupyter Notebook
-- Pandas / NumPy (if used)
+- Pandas / NumPy 
 
 ## 👩‍💻 Author
 **Tina Alnajjar**  
